@@ -2,7 +2,7 @@
 
 ## About Me
 
-$\color{green}{Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.}$
+$\textcolor{green}{Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.}$
 
 ## Skills
 ---
