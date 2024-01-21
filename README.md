@@ -2,7 +2,7 @@
 
 ## About Me
 
-> Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.
+**Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.**
 
 ## Skills
 ---
@@ -15,9 +15,3 @@
 - 🔍 **Monitoring:** Prometheus
 - 🔧 **Other:** Linux, Git, REST API
 ---
-
-//## Connect with Me
-
-//- [LinkedIn](https://www.linkedin.com/in/abdulzahiddd)
-
-
