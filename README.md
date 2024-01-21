@@ -1,3 +1,5 @@
+![Header](./abdulzahid.png)
+
 <h1 align="center">Hi 👋, I'm Abdul Zahid</h1>
 <h4 align="center">Passionate Golang developer with a love for building scalable and efficient software.</h4>
 
