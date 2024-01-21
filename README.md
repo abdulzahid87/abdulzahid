@@ -14,9 +14,8 @@
 
 - 🚀 **Languages:** Golang, Dart, Java
 - 🐳 **DevOps:** Docker, Kubernetes
-- 🌐 **Web:** HTML, CSS, JavaScript (React)
+- 🌐 **Web:** HTML, CSS
 - 🛢️ **Databases:** MongoDB, PostgreSQL, InfluxDB
-- ☁️ **Cloud:** AWS (EC2, IAM, S3)
 - 📱 **Mobile:** Flutter, Dart
 - 🔍 **Monitoring:** Prometheus
 - 🔧 **Other:** Linux, REST API, Git
