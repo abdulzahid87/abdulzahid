@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Zahid</h1>
-<h5 align="center">Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.</h5>
+<h5 align="center">A Passionate **Golang** developer from **India** with a love for building scalable and efficient software.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulzahid87&label=Profile%20views&color=0e75b6&style=flat" alt="abdulzahid87" /> </p>
 
@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdulzahiddd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulzahiddd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
