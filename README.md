@@ -23,8 +23,8 @@
 - 🔧 **Other:** Linux, REST API, Git
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulzahid87&show_icons=true&theme=dracula&locale=en&layout=compact" alt="abdulzahid87" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulzahid87&show_icons=true&locale=en&layout=compact" alt="abdulzahid87" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulzahid87&show_icons=true&theme=dracula&locale=en" alt="abdulzahid87" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulzahid87&show_icons=true&locale=en" alt="abdulzahid87" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulzahid87&theme=dracula&" alt="abdulzahid87" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulzahid87&" alt="abdulzahid87" /></p>
