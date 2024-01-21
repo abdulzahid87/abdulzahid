@@ -2,10 +2,10 @@
 
 ## About Me
 
---- Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.
+> Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.
 
 ## Skills
-
+---
 - 🚀 **Languages:** Golang, Core Java, Dart
 - 🐳 **DevOps:** Docker, Kubernetes
 - 🌐 **Web:** HTML, CSS, JavaScript
@@ -14,9 +14,10 @@
 - 📱 **Mobile:** Flutter, Dart
 - 🔍 **Monitoring:** Prometheus
 - 🔧 **Other:** Linux, Git, REST API
+---
 
-## Connect with Me
+//## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abdulzahiddd)
+//- [LinkedIn](https://www.linkedin.com/in/abdulzahiddd)
 
 
