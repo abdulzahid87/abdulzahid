@@ -1,23 +1,5 @@
-# Abdul Zahid
-
-## About Me
-
-<p style="color:blue">Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.</p>
-
-## Skills
----
-- 🚀 **Languages:** Golang, Core Java, Dart
-- 🐳 **DevOps:** Docker, Kubernetes
-- 🌐 **Web:** HTML, CSS, JavaScript
-- 🛢️ **Databases:** MongoDB, PostgreSQL, InfluxDB
-- ☁️ **Cloud:** AWS (EC2, IAM, S3)
-- 📱 **Mobile:** Flutter, Dart
-- 🔍 **Monitoring:** Prometheus
-- 🔧 **Other:** Linux, Git, REST API
----
-
 <h1 align="center">Hi 👋, I'm Abdul Zahid</h1>
-<h3 align="center">Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.</h3>
+<h5 align="center">Passionate Golang developer with a love for building scalable and efficient software. Experienced in web development, microservices architecture, and system-level programming.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulzahid87&label=Profile%20views&color=0e75b6&style=flat" alt="abdulzahid87" /> </p>
 
